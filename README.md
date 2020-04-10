@@ -203,6 +203,54 @@ This will involve printing an open source PCB and case
     </tr>
 </table>
 
+## Left Side Function Hand Wired!
+
+Hand wire a keyboard like the lfk78
+
+<table>
+    <tr>
+        <th>Part</th>
+        <th>Purchased</th>
+        <th>Installed/Built</th>
+        <th>Notes</th>
+    </tr>
+    <tr>
+        <td>PCB</td>
+        <td></td>
+        <td></td>
+        <td>No PCB needed, but will need a micro-controller</td>
+    </tr>
+    <tr>
+        <td>Plate</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Switches</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Stabilizers</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Case</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Keycaps</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 
 
