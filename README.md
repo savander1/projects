@@ -55,7 +55,7 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     </tr>
 </table>
 
-## XD87 TLK Work board.
+## XD87 TLK Work board
 
 <table>
     <tr>
@@ -156,6 +156,8 @@ A board for Hugo to learn to type on. Should have fun, clear legends.
 ## Mom's TKL Mac Board
 
 This will be the board for the main desktop PC. I'm thinking TKL, but smaller would also be good. Consider bluetooth. (Did I mention Mac compatible)
+
+(Depending on how the DSA caps go on the Minila, XD87 could be used for this. Probably would need CNCed MDF/HDF for case. Brass for plate, logo.)
 
 <table>
     <tr>
