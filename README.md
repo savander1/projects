@@ -4,6 +4,8 @@
 
 This is my home board. I use it when I work from home and on hobby projects. This is my first ever build.
 
+[Keyboard Layout](http://www.keyboard-layout-editor.com/#/gists/bdaadc157e4dcffb2c719172b84a76ea)
+
 <table>
     <tr>
         <th>Part</th>
@@ -54,6 +56,8 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
         <td>Not quite the right set for this layout. It is an OEM profile PBT Dolch set. Will be ordering a DSA Dolch set</td>
     </tr>
 </table>
+
+![yd60mq current configuration](yd60mq/IMG_0126.JPG "Current Configuration")
 
 ## XD87 TLK Work board
 
