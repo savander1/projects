@@ -157,6 +157,8 @@ A board for Hugo to learn to type on. Should have fun, clear legends.
     </tr>
 </table>
 
+ **NOTE**: May consider [this kit from Aliexpress](https://www.aliexpress.com/item/32919981329.html?spm=2114.12010612.8148356.11.577c7011kXbGdM) (Version 3.0, Kit 9)
+
 ## Mom's TKL Mac Board
 
 This will be the board for the main desktop PC. I'm thinking TKL, but smaller would also be good. Consider bluetooth. (Did I mention Mac compatible)
