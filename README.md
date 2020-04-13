@@ -15,8 +15,8 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     </tr>
     <tr>
         <td>PCB</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td> 
             <ul>
                 <li>Hot swap sockets </li>
@@ -27,32 +27,32 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     </tr>
     <tr>
         <td>Plate</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td>Built into the case</td>
     </tr>
     <tr>
         <td>Switches</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td>Kailh Box Royal</td>
     </tr>
     <tr>
         <td>Stabilizers</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td>Not Genuine</td>
     </tr>
     <tr>
         <td>Case</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
     </tr>
     <tr>
         <td>Keycaps</td>
-        <td>&#x2714;</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td>Not quite the right set for this layout. It is an OEM profile PBT Dolch set. Will be ordering a DSA Dolch set</td>
     </tr>
 </table>
@@ -70,13 +70,13 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     </tr>
     <tr>
         <td>PCB</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td>Ordered, not arrived.</td>
     </tr>
     <tr>
         <td>Plate</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td>Ordered, not arrived</td>
     </tr>
@@ -88,13 +88,13 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     </tr>
     <tr>
         <td>Stabilizers</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td>Arrived</td>
     </tr>
     <tr>
         <td>Case</td>
-        <td>&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td></td>
     </tr>
@@ -102,7 +102,7 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
         <td>Keycaps</td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>Could use the OEM Dolch set currently on the minila. Has all the right keys. Eventually might like a cherry or SA profile set.ß</td>
     </tr>
 </table>
 
@@ -416,5 +416,6 @@ TABLE
 CHECKMARK
 
 	&#x2714;
+    <td style ="color: green">&#x2714;</td>
 
 -->
