@@ -358,6 +358,9 @@ Hand wire a keyboard like the Vic20
     </tr>
 </table>
 
+# Colors and forms for inspiration
+I have found eBay and other vintage computer resellers and museums are a great inspiration for keyboards. There are so many different case styles and layouts we don't see anymore. Just imagine plunking one of these down on your desk:
+
 
 
 
