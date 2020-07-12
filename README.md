@@ -71,38 +71,38 @@ This is my home board. I use it when I work from home and on hobby projects. Thi
     <tr>
         <td>PCB</td>
         <td style ="color: green">&#x2714;</td>
-        <td></td>
+        <td style ="color: green">&#x2714;</td>
         <td>Arrived.</td>
     </tr>
     <tr>
         <td>Plate</td>
         <td style ="color: green">&#x2714;</td>
-        <td></td>
+        <td style ="color: green">&#x2714;</td>
         <td>Arrived</td>
     </tr>
     <tr>
         <td>Switches</td>
-        <td></td>
-        <td></td>
-        <td>Not ordered, but thinking about Cherry MX Clear</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td>Gateron Blacks (lubed)</td>
     </tr>
     <tr>
         <td>Stabilizers</td>
         <td style ="color: green">&#x2714;</td>
-        <td></td>
+        <td style ="color: green">&#x2714;</td>
         <td>Arrived, GMK screw in.</td>
     </tr>
     <tr>
         <td>Case</td>
         <td style ="color: green">&#x2714;</td>
-        <td></td>
+        <td style ="color: green">&#x2714;</td>
         <td>Arrived</td>
     </tr>
     <tr>
         <td>Keycaps</td>
-        <td></td>
-        <td></td>
-        <td>Could use the OEM Dolch set currently on the minila. Has all the right keys. Eventually might like a cherry or SA profile set.</td>
+        <td style ="color: green">&#x2714;</td>
+        <td style ="color: green">&#x2714;</td>
+        <td>Amazing set of DSA blanks</td>
     </tr>
 </table>
 
@@ -153,7 +153,7 @@ A board for Hugo to learn to type on. Should have fun, clear legends.
         <td>Keycaps</td>
         <td></td>
         <td></td>
-        <td>Really want something in a Cherry or SA profile. Also considering dev/tty. Minecraft themed novelty on its way.</td>
+        <td>Really want something in a Cherry or SA profile. Also considering dev/tty. Minecraft themed novelty on its way. Have an amazing novelty cap for him</td>
     </tr>
 </table>
 
