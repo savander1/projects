@@ -223,13 +223,13 @@ This will involve printing an open source PCB and case
     </tr>
     <tr>
         <td>PCB</td>
-        <td></td>
+        <td>V2 kit ordered</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>Plate</td>
-        <td></td>
+        <td>V2 kit ordered</td>
         <td></td>
         <td></td>
     </tr>
@@ -249,7 +249,7 @@ This will involve printing an open source PCB and case
         <td>Case</td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>I have the files to print a case, but I'm looking for a place to print them</td>
     </tr>
     <tr>
         <td>Keycaps</td>
@@ -360,13 +360,7 @@ Hand wire a keyboard like the Vic20
 
 # Colors and forms for inspiration
 I have found eBay and other vintage computer resellers and museums are a great inspiration for keyboards. There are so many different case styles and layouts we don't see anymore. Just imagine plunking one of these down on your desk:
-
-
-
-
-
-
-
+TBD
 
 <!-- 
 
