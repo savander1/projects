@@ -210,9 +210,8 @@ This will be the board for the main desktop PC. I'm thinking TKL, but smaller wo
     </tr>
 </table>
 
-## Discipline / Mysterium Printed PCB Build
+## Mysterium Printed PCB Build
 
-This will involve printing an open source PCB and case
 
 <table>
     <tr>
@@ -223,13 +222,13 @@ This will involve printing an open source PCB and case
     </tr>
     <tr>
         <td>PCB</td>
-        <td>V2 kit ordered</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>Plate</td>
-        <td>V2 kit ordered</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
         <td></td>
     </tr>
@@ -241,15 +240,15 @@ This will involve printing an open source PCB and case
     </tr>
     <tr>
         <td>Stabilizers</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>Durock Clear/Gold</td>
     </tr>
     <tr>
         <td>Case</td>
         <td></td>
         <td></td>
-        <td>I have the files to print a case, but I'm looking for a place to print them</td>
+        <td>Switch Couture has some nice ones ...</td>
     </tr>
     <tr>
         <td>Keycaps</td>
