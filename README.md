@@ -234,9 +234,9 @@ This will be the board for the main desktop PC. I'm thinking TKL, but smaller wo
     </tr>
     <tr>
         <td>Switches</td>
+        <td style ="color: green">&#x2714;</td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>Zealios V2 ordered</td>
     </tr>
     <tr>
         <td>Stabilizers</td>
